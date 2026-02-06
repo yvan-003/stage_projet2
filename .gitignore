@@ -1,0 +1,9 @@
+# Data files (large / external)
+/data/raw/*.csv
+/data/processed/*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
