@@ -51,3 +51,6 @@ Utilisez les fichiers `data/processed/*.csv` comme sources, puis construisez :
 
 ## Auteur
 - Paul Yvan Seka
+
+## Encadrement
+Ce projet est encadré par mon professeur **Bob Antoine Menelas**, qui m’a orienté vers ce sujet et m’accompagne dans sa réalisation.
