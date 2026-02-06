@@ -50,4 +50,4 @@ Utilisez les fichiers `data/processed/*.csv` comme sources, puis construisez :
 - `reports/` : livrables (export Power BI, captures, etc.)
 
 ## Auteur
-- Votre nom
+- Paul Yvan Seka
