@@ -5,5 +5,8 @@
 # Notebook checkpoints
 .ipynb_checkpoints/
 
+# Virtual env
+.venv/
+
 # OS
 .DS_Store
